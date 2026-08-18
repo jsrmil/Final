@@ -4,22 +4,16 @@ const message = `Hi, Nicole. ❤️
 
 I have something to tell you...
 
-I LIKE YOU!!
+I think alam mo na to, pero sasabihin ko pa din. \
+I've been thinking about this for a long time na, \
+and honestly, matagal ko na gusto sabihin sayo to pero \
+I kept delaying it kasi hindi ko alam kung pano. \
+And natatakot ako baka hindi mo na ko kausapin \
+pag sinabi ko. Pero na realize na ko walang \
+mangyayari kung hindi ko sasabihin, so ito na siguro \
+yung tamang time para sabihin.
 
-I think alam mo naman na, hindi naman halata noh. \
-sa insta pa nga lang nagpapapansin na, follow, unfollow, \
-tapos follow ulit papasin yern. hindi ko nga alam bakit \
-finallow back mo ko eh, napindot mo lang ba non? or ano? \
-pero seryoso, thank you kasi hindi mo ko blinock non hindi \
-ka nakulitan sakin, na inis ka lang. kala ko nga hanggang \
-IG mutual nalang eh, buti nalang kinapalan ko mukha ko nag \
-reply ako sa story mo tapos ayun wala na nakangiti na ko, \
-kachat na kita baka nga nagsasawa kana kausap ako eh. BTW
-
-I have a question for you... 
-
-may chance man or wala, whatever it is. \
-I will wait for the time that you develop your feelings fo me.`;
+So here I am, finally choosing to be honest, kahit na kinakabahan.`;
 
 const typing = document.getElementById("typing");
 
@@ -74,10 +68,15 @@ document.getElementById("yesBtn").addEventListener("click", () => {
   const popupContent = document.querySelector(".popup-content");
 
   popupContent.innerHTML = `
-        <h1 class="celebrate-title">❤️ YAY!! ❤️</h1>
+        <h1 class="celebrate-title">❤️YEAHEYY!❤️</h1>
 
         <p class="celebrate-text">
-            You just made me the happiest person. 🤗🥰🤭
+            I like you, Nicole. I like you not just because of your looks. \
+            Nung una, na-attract ako, pero nung nagkita na tayo at mas \
+            nakilala kita, mas lalo akong na-inlove sa’yo. Dahil sa humor \
+            mo and sa personality mo… basta, hindi ko maipaliwanag. Basta, \
+            gusto talaga kita. So may chance man or wala, whatever it is. \
+            I will wait for the time that you develop your feelings sakin.
         </p>
     `;
 });
@@ -93,13 +92,13 @@ const buttonArea = document.querySelector(".button-area");
 const messages = [
   "Are you sure po? 🥺",
   "Sure na sure na? 😢",
-  "Totoo NO na po?? 🥺🥺",
+  "Totoo exit nalang?? 🥺🥺",
   "Think again po! ❤️",
-  "Don't break my heart 💔",
-  "YES dapat sagot eh 😭",
-  "Please say YES na po! 😢",
+  "Kawawa naman ako 😭",
+  "Broken na heart ko 💔",
+  "Please yung isa nalang click mo po! 😢",
   "Iiyak na ako 😭",
-  "Blehh bawal NO 😝❤️",
+  "Blehh bawal 😝❤️",
 ];
 
 let clickCount = 0;
