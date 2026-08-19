@@ -68,7 +68,7 @@ document.getElementById("yesBtn").addEventListener("click", () => {
   const popupContent = document.querySelector(".popup-content");
 
   popupContent.innerHTML = `
-        <h1 class="celebrate-title">❤️YEAHEYY!❤️</h1>
+        <h1 class="celebrate-title">❤️YEHHEYY!❤️</h1>
 
         <p class="celebrate-text">
             I like you, Nicole. I like you not just because of your looks. \
