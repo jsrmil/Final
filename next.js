@@ -9,7 +9,7 @@ I've been thinking about this for a long time na, \
 and honestly, matagal ko na gusto sabihin sayo to pero \
 I kept delaying it kasi hindi ko alam kung pano. \
 And natatakot ako baka hindi mo na ko kausapin \
-pag sinabi ko. Pero na realize na ko walang \
+pag sinabi ko. Pero na realize ko na wala namang \
 mangyayari kung hindi ko sasabihin, so ito na siguro \
 yung tamang time para sabihin.
 
@@ -72,10 +72,10 @@ document.getElementById("yesBtn").addEventListener("click", () => {
 
         <p class="celebrate-text">
             I like you, Nicole. I like you not just because of your looks. \
-            Nung una, na-attract ako, pero nung nagkita na tayo at mas \
-            nakilala kita, mas lalo akong na-inlove sa’yo. Dahil sa humor \
-            mo and sa personality mo… basta, hindi ko maipaliwanag. Basta, \
-            gusto talaga kita. So may chance man or wala, whatever it is. \
+            oo nung una, na-attract ako, pero nung nagkita na tayo at mas \
+            nakilala kita, mas lalo kitang nagustohan. Dahil sa humor \
+            mo and sa personality mo… I know na hindi pa kita kilalang kilala \
+            kaya i want to know you more. So may chance man or wala, whatever it is. \
             I will wait for the time that you develop your feelings sakin.
         </p>
     `;
