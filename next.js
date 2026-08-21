@@ -68,14 +68,14 @@ document.getElementById("yesBtn").addEventListener("click", () => {
   const popupContent = document.querySelector(".popup-content");
 
   popupContent.innerHTML = `
-        <h1 class="celebrate-title">❤️YEHHEYY!❤️</h1>
+        <h1 class="celebrate-title">❤️YEY THANK YOU!❤️</h1>
 
         <p class="celebrate-text">
             I like you, Nicole. I like you not just because of your looks. \
             oo nung una, na-attract ako, pero nung nagkita na tayo at mas \
             nakilala kita, mas lalo kitang nagustohan. Dahil sa humor \
             mo and sa personality mo… I know na hindi pa kita kilalang kilala \
-            kaya i want to know you more. So may chance man or wala, whatever it is. \
+            kaya i want to know you more. So if you like me back or not whatever it is. \
             I will wait for the time that you develop your feelings sakin.
         </p>
     `;
